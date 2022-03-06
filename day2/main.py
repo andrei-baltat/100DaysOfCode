@@ -21,6 +21,7 @@ c = 3 * 5
 d = 3 / 5   # o sa iasa mereu float
 e = 3 // 5  # o sa iasa mereu int
 f = 3 ** 5
+g = 3 % 5 # restul
 
 # print(type(e))
 
